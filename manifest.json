@@ -1,0 +1,25 @@
+{
+  "name": "SYSTEM \u2014 Home Workout & AI Coach",
+  "short_name": "SYSTEM",
+  "description": "6-Day 10kg Dumbbell Plan, MMA Home Fight Camp, AI Food Scanner & Solo Leveling Status System.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060B16",
+  "theme_color": "#1D63FF",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
